@@ -1,0 +1,1 @@
+print("My Addon sh_init")
